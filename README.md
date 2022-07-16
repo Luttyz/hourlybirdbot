@@ -1,4 +1,4 @@
-# Hourly Bird bot
+# Simple Hourly Bird bot script
 
 This Github repo contains the very simple code used by the @HourlyBird Twitter and Telegram bot, it is somewhat modular as it can be easily edited to send any images that can be accessed through a web API.
 
