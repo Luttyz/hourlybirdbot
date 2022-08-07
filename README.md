@@ -27,4 +27,4 @@ Once you are ready, download the `birdbot.py` script, simply replace the Twitter
 # Acknowledgements
 
 Thanks to that one friend with who I had the idea a good year ago if not more, and thank you to everyone who has made the Python packages used by this script.
-<br> This script is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a> as this is the only thing I could think of, not knowing any Software-specific licenses.
+<br> This script is licensed under the WTFPL, just do whatever the fuck you want with it. :)
